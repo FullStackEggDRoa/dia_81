@@ -29,6 +29,7 @@ public class Ejercicio_4 {
         formas.add(sC.crearCircunferencia());
         formas.add(sR.crearRectangulo());
         
+        
         for (Forma aux: formas){
             aux.calcularArea();
             aux.calcularPerimetro();
