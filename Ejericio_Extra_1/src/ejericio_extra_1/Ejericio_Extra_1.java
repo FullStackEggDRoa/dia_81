@@ -51,7 +51,7 @@ public class Ejericio_Extra_1 {
             
             System.out.println(".:: MENU ::.");
             System.out.println("1. Ingresar Datos Usuario");
-            System.out.println("2. Ingresar Enbarcación");
+            System.out.println("2. Ingresar Embarcación");
             System.out.println("3. Alquilar Amarre (Instantaneo)");
             System.out.println("4. Alquilar Amarre (Reserva)");
             System.out.println("5. Mostrar Estados");
@@ -67,7 +67,6 @@ public class Ejericio_Extra_1 {
             }
         }while(true);
        
-         string tiposEmbaraciones = Embarcacion.class.
 //        System.out.println("..:: PRECIO FINAL ALQUILERES ::..");
 //        deck1.calcularAlquiler();
     }
